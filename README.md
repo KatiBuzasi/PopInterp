@@ -9,9 +9,9 @@ The tutorial is mainly based on the "interp" package in the "DemoTools" R librar
 The tutorial has been made as part of the research project titled "Lifting the burden of disease. The modernisation of health in the Netherlands: Amsterdam 1854-1940" (https://www.ru.nl/rich/our-research/research-groups/radboud-group-historical-demography-family-history/current-research-projects/current-projects/lifting-burden-disease/).
 
 The repository consists of the following files:
-1. Basic datasets in xlsx format
-2. R script
-3. Step-by-step tutorial in pdf form
+1. Basic datasets in xlsx format ("JB_pop.xlsx", "men_census_pop.xlsx", "women_census_pop.xlsx")
+2. R script ("interpolation.R")
+3. Step-by-step tutorial in pdf form ("population interpolation tutorial_Buzasi.pdf")
 
 
 References
