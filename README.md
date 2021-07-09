@@ -12,6 +12,7 @@ The repository consists of the following files:
 1. Basic datasets in xlsx format ("JB_pop.xlsx", "men_census_pop.xlsx", "women_census_pop.xlsx")
 2. R script ("interpolation.R")
 3. Step-by-step tutorial in pdf form ("population interpolation tutorial_Buzasi.pdf")
+4. The results of the interpolation exercise in .xlsx format: men_midyear_linear.xlsx, men_midyear_exponential.xlsx, women_midyear_linear.xlsx, women_midyear_exponential.xlsx 
 
 
 References
